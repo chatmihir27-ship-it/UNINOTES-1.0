@@ -123,6 +123,4 @@ Planned improvements beyond v5.2 are tracked internally and are not required for
 
 ---
 
-## 📄 License
 
-Add a license of your choice (e.g. MIT) if you intend to open-source this project.
